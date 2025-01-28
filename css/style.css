@@ -643,10 +643,6 @@ video {
   flex-direction: column;
 }
 
-.items-start {
-  align-items: flex-start;
-}
-
 .items-center {
   align-items: center;
 }
@@ -681,14 +677,6 @@ video {
 
 .gap-8 {
   gap: 2rem;
-}
-
-.gap-2 {
-  gap: 0.5rem;
-}
-
-.gap-20 {
-  gap: 5rem;
 }
 
 .rounded-md {
